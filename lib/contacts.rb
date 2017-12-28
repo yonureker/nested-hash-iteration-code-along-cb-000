@@ -20,7 +20,7 @@ require 'pry'
     end
   end
 end
-end
+
 
 def remove_strawberry(contacts)
   def remove_strawberry(contacts)
